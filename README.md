@@ -1,7 +1,6 @@
 # Custom Pagination (Vanilla JS)
 
-
-**Objective:** Develop custom pagination nav that collapses multiple pages into interactive ellipsis. A user is able to click the ellipsis to input a page that isn’t displaying in the pagination nav. Complete the project using vanilla JS. 
+Develop custom pagination nav that collapses multiple pages into interactive ellipses. A user is able to click the ellipsis to input a page that isn’t displaying in the pagination nav. Complete the project using vanilla JS. 
 
 ## Live Demo
 A Pen created on CodePen.io. Original URL: [https://codepen.io/thehelpfultipper/pen/vYvwKbR](https://codepen.io/thehelpfultipper/pen/vYvwKbR)
@@ -10,7 +9,7 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/thehelpfultipper/
 Find the deets on our tutorial blog post: [This Is How To Build Custom Pagination With JavaScript](https://thehelpfultipper.com/)
 
 ## Objective
-Navigate across pages of data using pagination buttons. Include option to navigate via use input. 
+Navigate across pages of data using pagination buttons. Include the option to navigate via user input. 
 <br><br>
 **Highlights:**
 - Integrating and modifying third-party code into personal project
