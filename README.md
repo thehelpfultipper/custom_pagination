@@ -6,7 +6,7 @@ Develop custom pagination nav that collapses multiple pages into interactive ell
 A Pen created on CodePen.io. Original URL: [https://codepen.io/thehelpfultipper/pen/vYvwKbR](https://codepen.io/thehelpfultipper/pen/vYvwKbR)
 
 ## Tutorial
-Find the deets on our tutorial blog post: [This Is How To Build Custom Pagination With JavaScript](https://thehelpfultipper.com/)
+Find the deets on our tutorial blog post: [This Is How To Build Custom Pagination With JavaScript](https://thehelpfultipper.com/how-to-build-custom-pagination-with-javascript/)
 
 ## Objective
 Navigate across pages of data using pagination buttons. Include the option to navigate via user input. 
